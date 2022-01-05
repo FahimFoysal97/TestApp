@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="show_name_button_text">Show my name id and email</string>
+    <string name="bjit_training_text">BJIT Training</string>
+    <string name="showProfile">Show My Profile</string>
+    <string name="myName">Md Fahim Foysal</string>
+    <string name="profilePic">Profile Picture</string>
+    <string name="designation">Software Engineer</string>
+    <string name="companyName">BJIT Limited</string>
+    <string name="email">Email: fahim.foysal@bjitgroup.com</string>
+    <string name="telephone">Mobile: +8801303073849</string>
+    <string name="degree">BSc(Engg) Computer Science and Engineering</string>
+    <string name="university">Comilla University</string>
+    <string name="address">Debidwar, Cumilla</string>
+    <string name="returnButton">Return</string>
+    <string name="bjitLogo">BJIT Logo</string>
+    <string name="name">name</string>
+</resources>
